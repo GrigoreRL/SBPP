@@ -7,4 +7,4 @@ It is intended as a modular set of functions to help undergraduate students with
 
 The package does not yet have complete documentation, but its basic intended functionality is complete.
 
-SBPP was developed as part of my Bachelor thesis at the University of Groningen.
+SBPP was developed as part of my Bachelor thesis in Physics at the University of Groningen.
